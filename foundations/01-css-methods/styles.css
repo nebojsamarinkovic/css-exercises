@@ -1,0 +1,9 @@
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 72px;
+    font-weight: 600;
+    color: white;
+    background-color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+}
